@@ -51,5 +51,4 @@ foreach my $lema (@lemas){
   say $head;
   # say "\t[m1]$index\[/m]";            # uncomment to print index. Note, Volume 2 does not have them.
   say "\t[m1]$body\[/m]";
-  say "";
 }
